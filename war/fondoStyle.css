@@ -1,0 +1,47 @@
+@CHARSET "US-ASCII";
+
+#contenedor {
+	/*background-image: url('headCFE') border:2px solid #FF0000;*/
+}
+
+#cabecera {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-image: url("imagenes/headCFE.png");
+	background-size: cover;
+	height: 25%;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#derecha {
+	height: 75%;
+	width: 15%;
+	background-color: #D8D8D8;
+	float: right;
+	
+}
+
+#izquierda {
+	height: 75%;
+	width: 15%;
+	background-color: #D8D8D8;
+	float: left;
+	
+}
+
+#centro {
+	height: 75%;
+	background-color: #FFFFFF;
+	width: 70%;
+	float: left;
+	
+}
+
+#pie {
+	height: 10%;
+	background-color: #D3D1C1;
+	clear: both;
+}
+

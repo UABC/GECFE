@@ -1,0 +1,49 @@
+@CHARSET "US-ASCII";
+
+#recuadro {
+	border-radius: 20px;
+	-moz-border-radius: 20px 20px 20px 20px;
+	-webkit-border-radius: 20px 20px 20px 20px;
+	border: 1px solid #707070;
+	height: 20%;
+	background-color: #d8d8d8;
+	width: 25%;
+	float: left;
+	position: fixed;
+	left: 40%;
+	bottom: 30%;
+}
+
+.tbUsuario {
+	position: fixed;
+	left: 52%;
+	bottom: 44%;
+	width: 10%;
+}
+
+.lbUsuario {
+	position: fixed;
+	left: 43%;
+	bottom: 44%;
+	font-size: 150%;
+}
+
+.lbContrasena {
+	position: fixed;
+	left: 43%;
+	bottom: 38%;
+	font-size: 150%;
+}
+
+.ptbContrasena {
+	position: fixed;
+	left: 52%;
+	bottom: 38%;
+	width: 10%;
+}
+
+.btnIniciarSesion {
+	position: fixed;
+	left: 51%;
+	bottom: 33%;
+}

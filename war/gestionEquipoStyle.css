@@ -1,0 +1,204 @@
+@CHARSET "ISO-8859-1";
+
+#recuadroFormulario {
+	border-radius: 0px;
+	-moz-border-radius: 20px 20px 20px 20px;
+	-webkit-border-radius: 20px 20px 20px 20px;
+	border: 1px solid #707070;
+	height: 59%;
+	background-color: #fffff;
+	width: 40%;
+	float: left;
+	position: fixed;
+	left: 30%;
+	top: 35%;
+}
+
+.lbSolicitante {
+	position: fixed;
+	left: 37%;
+	bottom: 54%;
+	width: 10%;
+	font-size: 110%;
+}
+
+.tbSolicitante {
+	position: fixed;
+	left: 47%;
+	bottom: 54%;
+	width: 15%;
+}
+
+.lbDireccion {
+	position: fixed;
+	left: 37%;
+	bottom: 50%;
+	width: 10%;
+	font-size: 110%;
+}
+
+.tbDireccion {
+	position: fixed;
+	left: 47%;
+	bottom: 50%;
+	width: 15%;
+}
+
+.lbExpedicion {
+	position: fixed;
+	left: 37%;
+	bottom: 46%;
+	width: 10%;
+	font-size: 110%;
+}
+
+.tbExpedicion {
+	position: fixed;
+	left: 47%;
+	bottom: 46%;
+	width: 15%;
+}
+
+.lbZona {
+	position: fixed;
+	left: 37%;
+	bottom: 42%;
+	width: 10%;
+	font-size: 110%;
+}
+
+.lsbZona {
+	position: fixed;
+	left: 47%;
+	bottom: 42%;
+	width: 15%;
+}
+
+.dateBox{
+	position: fixed;
+	left: 63%;
+	top: 36%;
+	width: 6%;
+	}
+
+.lbRecepcion {
+	position: fixed;
+	left: 37%;
+	bottom: 39%;
+	width: 15%;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.rbPaqueteria {
+	position: fixed;
+	left: 39%;
+	bottom: 36%;
+	width: 15%;
+}
+
+.rbPersonal {
+	position: fixed;
+	left: 50%;
+	bottom: 36%;
+	width: 15%;
+}
+
+.lbCondicion {
+	position: fixed;
+	left: 37%;
+	bottom: 33%;
+	width: 30%;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.rbbuenEstado {
+	position: fixed;
+	left: 39%;
+	bottom: 30%;
+	width: 15%;
+}
+
+.rbMalEstado {
+	position: fixed;
+	left: 50%;
+	bottom: 30%;
+	width: 15%;
+}
+
+.lbNombre {
+	position: fixed;
+	left: 37%;
+	bottom: 25%;
+	width: 10%;
+	font-size: 110%;
+}
+
+.tbNombre {
+	position: fixed;
+	left: 47%;
+	bottom: 25%;
+	width: 15%;
+}
+
+.lbMarca {
+	position: fixed;
+	left: 37%;
+	bottom: 21%;
+	width: 10%;
+	font-size: 110%;
+}
+
+.tbMarca {
+	position: fixed;
+	left: 47%;
+	bottom: 21%;
+	width: 15%;
+}
+
+.lbModelo {
+	position: fixed;
+	left: 37%;
+	bottom: 17%;
+	width: 10%;
+	font-size: 110%;
+}
+
+.tbModelo {
+	position: fixed;
+	left: 47%;
+	bottom: 17%;
+	width: 15%;
+}
+
+.lbNoSerie {
+	position: fixed;
+	left: 37%;
+	bottom: 13%;
+	width: 10%;
+	font-size: 110%;
+}
+
+.tbNoSerie {
+	position: fixed;
+	left: 47%;
+	bottom: 13%;
+	width: 15%;
+}
+
+.btnAgregar {
+	position: fixed;
+	left: 47%;
+	bottom: 8%;
+	width: 10%;
+}
+
+.lbTitulo {
+	position: fixed;
+	left: 41%;
+	top: 36%;
+	width: 20%;
+	font-size: 130%;
+	font-weight: bold;
+}

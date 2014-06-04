@@ -1,0 +1,2 @@
+serviceClass: com.gecfe.client.GECFEService
+path: 32322529CF4F0F923957F9FFE8CECFFC.gwt.rpc
